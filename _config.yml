@@ -1,0 +1,28 @@
+name: Bizboard
+favicon: null
+layout_spectrum: 0.74085
+typography_spectrum: 0.0430227960459888
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#191919'
+    - '#62554e'
+    - '#bba495'
+    - '#ffffff'
+    - '#57d4e5'
+  brandStrength: 0.17232190957292914
+  lightness: 0.7697752476669848
+  saturation: 0.8749359755311161
+  rhythmicContrast: 0.6954963838215917
+purpose: []
