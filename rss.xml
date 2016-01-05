@@ -4,8 +4,15 @@
         <description><![CDATA[Bizboard]]></description>
         <link>https://thegrid.ai/bizboard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 20:00:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 20:02:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bizboard/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jayphelps/core-decorators.js]]></title>
+            <description><![CDATA[<article><h1>jayphelps/core-decorators.js</h1><p>core-decorators.js - Library of JavaScript decorators (aka ES2016/ES7 decorators) inspired by languages that come with built-ins like @​override, @​deprecate, @​autobind, @​mixin and more. Popular with React/Angular, but is framework agnostic.</p><img src="https://avatars2.githubusercontent.com/u/762949?v=3&s=400"></article>]]></description>
+            <link>https://github.com/jayphelps/core-decorators.js</link>
+            <guid isPermaLink="false">d01e0689-f416-4266-bbb8-ee426719a458</guid>
+            <pubDate>Tue, 05 Jan 2016 20:02:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Dit is een test.</p>]]></description>
