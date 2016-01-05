@@ -4,11 +4,18 @@
         <description><![CDATA[Bizboard]]></description>
         <link>https://thegrid.ai/bizboard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 20:02:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 20:07:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bizboard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Exploring ES2016 Decorators]]></title>
+            <description><![CDATA[<h1>Exploring ES2016 Decorators</h1>]]></description>
+            <link>https://gist.github.com/a0ccf60eae4d8e5290a0</link>
+            <guid isPermaLink="false">43e088ab-c171-43b7-9d0a-f405d4fb538a</guid>
+            <pubDate>Tue, 05 Jan 2016 20:07:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[jayphelps/core-decorators.js]]></title>
-            <description><![CDATA[<article><h1>jayphelps/core-decorators.js</h1><p>core-decorators.js - Library of JavaScript decorators (aka ES2016/ES7 decorators) inspired by languages that come with built-ins like @​override, @​deprecate, @​autobind, @​mixin and more. Popular with React/Angular, but is framework agnostic.</p><img src="https://avatars2.githubusercontent.com/u/762949?v=3&s=400"></article>]]></description>
+            <description><![CDATA[<article><h1>jayphelps/core-decorators.js</h1><p>core-decorators.js - Library of JavaScript decorators (aka ES2016/ES7 decorators) inspired by languages that come with built-ins like @​override, @​deprecate, @​autobind, @​mixin and more. Popular with React/Angular, but is framework agnostic.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e733e9833e41261f536a247804e35e7b425381d2.jpg"></article>]]></description>
             <link>https://github.com/jayphelps/core-decorators.js</link>
             <guid isPermaLink="false">d01e0689-f416-4266-bbb8-ee426719a458</guid>
             <pubDate>Tue, 05 Jan 2016 20:02:26 GMT</pubDate>
