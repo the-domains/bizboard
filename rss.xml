@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Bizboard]]></title>
         <description><![CDATA[Bizboard]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bizboard/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 08:50:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 20:00:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bizboard/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedcd8037fb-438f-4d63-863e-90bb85f2a256/index.html</link>
+            <description><![CDATA[<p>Dit is een test.</p>]]></description>
+            <link>https://thegrid.ai/bizboard/cd8037fb-438f-4d63-863e-90bb85f2a256/index.html</link>
             <guid isPermaLink="false">cd8037fb-438f-4d63-863e-90bb85f2a256</guid>
-            <pubDate>Mon, 04 Jan 2016 08:50:28 GMT</pubDate>
+            <pubDate>Tue, 05 Jan 2016 20:00:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
